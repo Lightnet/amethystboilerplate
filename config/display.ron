@@ -1,0 +1,4 @@
+(
+  title: "amethystboilerplate",
+  dimensions: Some((640, 480)),
+)
